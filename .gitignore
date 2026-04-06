@@ -1,0 +1,6 @@
+node_modules/
+build/
+.svelte-kit/
+games.db
+games.db-shm
+games.db-wal
